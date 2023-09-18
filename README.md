@@ -1,16 +1,14 @@
-### Hi there 😀 
+### Hello everyone  :grinning:
 
-<!--
-**KarinaCosta2609/KarinaCosta2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo Karina no momento estou morando em Londres , tem sido muito desafiador esse momento da minha vida mas também tem sido muito bom para o meu 
+crescimento pessoal. Estou começando agora na área de programação e espero muito em breve me tornar uma programadora . Conto com a juda daqueles que puderem 
+me ajudar em algp e também quero desde já agradecer a turma do Devclub que tem me ajudado nesta empreitada. O meu muito obrigado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+![Karina stats](https://github-readme-stats.vercel.app/api?username=KarinaCosta2609&show_icons=true&theme=radical)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaCosta2609)](https://github.com/anuraghazra/github-readme-stats)
