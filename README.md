@@ -11,4 +11,3 @@ me ajudar em algp e também quero desde já agradecer a turma do Devclub que tem
 ![Karina stats](https://github-readme-stats.vercel.app/api?username=KarinaCosta2609&show_icons=true&theme=radical)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaCosta2609)](https://github.com/anuraghazra/github-readme-stats)
